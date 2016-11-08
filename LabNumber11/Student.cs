@@ -1,4 +1,4 @@
-﻿namespace LabNumber11
+﻿namespace PersonClasses
 {
     internal class Student : Person
     {
